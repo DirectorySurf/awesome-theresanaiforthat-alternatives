@@ -41,7 +41,7 @@
 
 ## 🤝 Contributions
 
-Suggestions welcome! Open a [pull request](https://github.com/yourusername/awesome-theresanaiforthat-alternatives/pulls) or [issue](https://github.com/yourusername/awesome-theresanaiforthat-alternatives/issues) to contribute.
+Suggestions welcome! Open a [pull request](https://github.com/DirectorySurf/awesome-theresanaiforthat-alternatives/pulls) or [issue](https://github.com/DirectorySurf/awesome-theresanaiforthat-alternatives/issues) to contribute.
 
 ---
 
