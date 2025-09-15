@@ -6,8 +6,10 @@
 
 ## 🚀 AI Tool Directories
 
-* [Futurepedia](https://www.futurepedia.io) – Massive AI tool aggregator with frequent updates.
+* [Futurepedia](https://futurepedia.wiki) – Massive AI tool aggregator with frequent updates.
 * [Altern](https://altern.ai) – AI-focused discovery and listing platform.
+* [AI Directory](https://aidirectory.wiki) - The Best AI Tools List
+* [AI Dir](https://aidir.wiki) - First AI Directory of the world!
 * [uNeed](https://uneed.best) – User-curated list of useful AI tools.
 * [AI Scout](https://aiscout.tools) – Discover trending and new AI tools.
 * [Insidr.ai](https://insidr.ai) – AI tools directory with reviews and recommendations.
