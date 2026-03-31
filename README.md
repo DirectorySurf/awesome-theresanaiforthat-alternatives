@@ -14,6 +14,7 @@
 * [AI Scout](https://aiscout.tools) – Discover trending and new AI tools.
 * [Insidr.ai](https://insidr.ai) – AI tools directory with reviews and recommendations.
 * [AI Valley](https://aivalley.ai) – Community-curated AI tools and resources.
+* [AIfolio.cz](https://aifolio.cz) – First Czech-language AI tools directory with 60+ curated tools and community.
 
 ---
 
