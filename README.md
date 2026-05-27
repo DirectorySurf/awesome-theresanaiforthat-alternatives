@@ -28,6 +28,7 @@
 ## 🎓 Learning & Use Case Libraries
 
 * [Learn AI Tools](https://learnaitools.io) – AI tools with tutorials and real-world applications.
+* [LandscapioAI](https://www.landscapioai.com/) – AI-powered landscape design visualization tool for creating outdoor space concepts.
 * [AI Use Cases](https://www.aiusecases.org) – Browse categorized practical use cases for AI.
 
 ---
