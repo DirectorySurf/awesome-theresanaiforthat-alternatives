@@ -22,6 +22,8 @@
 * [DevHunt](https://devhunt.org) – Community-based discovery of developer tools including AI.
 * [LangChainHub](https://www.langchainhub.com) – Explore components and tools for LangChain-based apps.
 * [GitHub Trending](https://github.com/trending) – Find trending open-source AI repositories.
+* [CoderPlan](https://coderplan.ai) – Unified LLM API gateway with OpenAI-compatible access to 20+ models for coding agents.
+
 
 ---
 
