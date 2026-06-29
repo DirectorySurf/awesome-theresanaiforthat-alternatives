@@ -14,6 +14,7 @@
 * [AI Scout](https://aiscout.tools) – Discover trending and new AI tools.
 * [Insidr.ai](https://insidr.ai) – AI tools directory with reviews and recommendations.
 * [AI Valley](https://aivalley.ai) – Community-curated AI tools and resources.
+* [AISOTools](https://aisotools.com) – AI tools directory focused on AI Search Optimization (AISO) — helps you find and compare tools by how well they perform in AI-powered search.
 
 ---
 
