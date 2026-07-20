@@ -8,6 +8,7 @@
 
 * [Futurepedia](https://futurepedia.wiki) – Massive AI tool aggregator with frequent updates.
 * [Altern](https://altern.ai) – AI-focused discovery and listing platform.
+* [BestAIpicker](https://www.bestaipicker.com) – Interactive AI tool picker with source-checked comparisons and recommendations.
 * [AI Directory](https://aidirectory.wiki) - The Best AI Tools List
 * [AI Dir](https://aidir.wiki) - First AI Directory of the world!
 * [uNeed](https://uneed.best) – User-curated list of useful AI tools.
