@@ -14,6 +14,7 @@
 * [AI Scout](https://aiscout.tools) – Discover trending and new AI tools.
 * [Insidr.ai](https://insidr.ai) – AI tools directory with reviews and recommendations.
 * [AI Valley](https://aivalley.ai) – Community-curated AI tools and resources.
+* [HaiAi123](https://www.haiai123.com/) – Global AI tools directory with 1,400+ tools across 17 categories, available in English, Simplified Chinese and Traditional Chinese.
 
 ---
 
