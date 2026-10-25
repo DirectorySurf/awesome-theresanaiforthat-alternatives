@@ -14,6 +14,7 @@
 * [AI Scout](https://aiscout.tools) – Discover trending and new AI tools.
 * [Insidr.ai](https://insidr.ai) – AI tools directory with reviews and recommendations.
 * [AI Valley](https://aivalley.ai) – Community-curated AI tools and resources.
+* [MeetNewAI](https://meetnewai.com) – Free bilingual directory of new AI tools, AI games, and MCP servers, organized by job-to-be-done with short editorial notes.
 
 ---
 
