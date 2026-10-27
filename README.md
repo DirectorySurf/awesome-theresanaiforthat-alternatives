@@ -13,6 +13,7 @@
 * [uNeed](https://uneed.best) – User-curated list of useful AI tools.
 * [AI Scout](https://aiscout.tools) – Discover trending and new AI tools.
 * [Insidr.ai](https://insidr.ai) – AI tools directory with reviews and recommendations.
+* [RespawnStack](https://respawnstack.com) – Curated AI tools directory for game developers and indie studios.
 * [AI Valley](https://aivalley.ai) – Community-curated AI tools and resources.
 
 ---
