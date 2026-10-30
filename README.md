@@ -7,6 +7,7 @@
 ## 🚀 AI Tool Directories
 
 * [Futurepedia](https://futurepedia.wiki) – Massive AI tool aggregator with frequent updates.
+* [forkalt](https://forkalt.com) – Directory of open-source and free alternatives to paid AI and pro software, with side-by-side model comparisons.
 * [Altern](https://altern.ai) – AI-focused discovery and listing platform.
 * [AI Directory](https://aidirectory.wiki) - The Best AI Tools List
 * [AI Dir](https://aidir.wiki) - First AI Directory of the world!
