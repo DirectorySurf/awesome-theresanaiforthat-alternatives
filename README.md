@@ -38,6 +38,7 @@
 * [Startup Tools List](https://startuptoolslist.com) – Startup tool directory with an AI section.
 * [ToolsForCreators](https://toolsforcreators.com) – AI tools for creators and marketers.
 * [NoCodeList](https://nocodelist.co) – Includes AI tools that require no coding.
+* [No Stairs Please MCP](https://nostairsplease.com/mcp) - Hosted MCP server and searchable live-music venue directory for touring artists, solo acts, and talent buyers.
 
 ---
 
